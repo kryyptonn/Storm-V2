@@ -1,5 +1,5 @@
 # Storm-V2
-60% UNC, Level 5 executor for Roblox.
+60% UNC, Level 5 executor for Roblox, now supporting Luarmor 🔥.
 
 Discord is still being created, please be patient.
 
