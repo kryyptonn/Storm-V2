@@ -1,7 +1,7 @@
 # Storm-V2
 60% UNC, Level 5 executor for Roblox.
 
-Discord is still being created, be patient.
+Discord is still being created, please be patient.
 
 - Storm Fanart:
   
