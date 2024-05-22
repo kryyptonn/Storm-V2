@@ -13,3 +13,5 @@ Discord is still being created, please be patient.
 ![stormxd](https://github.com/kryyptonn/Storm-V2/assets/170441037/53e13bb1-f398-4ba8-9dcd-6f4edb2a6e64)
 
 Storm Executor was developed by one of the Trigon Evo executor developers (https://trigonevo.com/). Trigon Evo was an open source Level 8 Roblox Executor before Byfron (Hyperion) was added to Roblox.
+
+![image](https://github.com/kryyptonn/Storm-V2/assets/170441037/af7b9ef7-a13a-4213-a418-7a14d3cda354)
